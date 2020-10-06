@@ -212,6 +212,10 @@ body {
     border: none;
 }
 
+.card a {
+    text-decoration: none;
+}
+
 /* Nuestro equipo2 */
 .intro h2 {
     font-family: 'Roboto Slab', serif !important;
